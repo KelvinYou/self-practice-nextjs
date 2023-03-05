@@ -11,3 +11,6 @@ npm run dev
 Tutorial:
 https://nextjs.org/docs/basic-features/typescript
 
+NextJS + prisma + postgres
+https://vercel.com/guides/nextjs-prisma-postgres
+
